@@ -14,4 +14,4 @@ To get started with Easy Image Editor, follow these steps:
 
 1. Clone the repository:
    ```bash
-   
+   https://github.com/saadelafrhani/ScaleNow-ImageEditor
