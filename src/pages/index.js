@@ -11,13 +11,17 @@ export default function Home() {
     <div className="p-2 bg-gray-700 ">
       <Head>
         <title>ScaleNow </title>
+        <meta
+          name="description"
+          content="ScaleNow: A user-friendly tool for removing image backgrounds and editing photos seamlessly. Enhance your images with just a few clicks using our responsive web application built with HTML5, CSS3, and JavaScript."
+        />
         <link rel="icon" href="/logo.png" />
       </Head>
       <div className="max-w-7xl m-auto">
         <Navbar />
-        <Core/>
+        <Core />
       </div>
-      <Footer/>
+      <Footer />
     </div>
   )
 }
